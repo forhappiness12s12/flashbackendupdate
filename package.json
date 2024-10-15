@@ -1,0 +1,21 @@
+{
+  "name": "flash-loan-backend",
+  "version": "1.0.0",
+  "main": "analyzeMarket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.7.7",
+    "decimal.js": "^10.4.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "graphql-request": "^7.1.0",
+    "nft.storage": "^7.2.0",
+    "web3": "^4.13.0"
+  },
+  "description": ""
+}
